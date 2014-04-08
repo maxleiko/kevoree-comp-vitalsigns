@@ -1,6 +1,6 @@
 {
     "eClass": "org.kevoree.ContainerRoot",
-    "generated_KMF_ID": "0.83466749987564981396955539111",
+    "generated_KMF_ID": "0.84425899595953521396957352478",
     "nodes": [],
     "typeDefinitions": [
         {
@@ -17,8 +17,49 @@
             "dictionaryType": [
                 {
                     "eClass": "org.kevoree.DictionaryType",
-                    "generated_KMF_ID": "0.220518608577549461396955539126",
-                    "attributes": []
+                    "generated_KMF_ID": "0.89354382641613481396957352501",
+                    "attributes": [
+                        {
+                            "eClass": "org.kevoree.DictionaryAttribute",
+                            "fragmentDependant": "false",
+                            "optional": "false",
+                            "name": "cpu",
+                            "state": "false",
+                            "datatype": "boolean",
+                            "defaultValue": "true",
+                            "genericTypes": []
+                        },
+                        {
+                            "eClass": "org.kevoree.DictionaryAttribute",
+                            "fragmentDependant": "false",
+                            "optional": "false",
+                            "name": "mem",
+                            "state": "false",
+                            "datatype": "boolean",
+                            "defaultValue": "true",
+                            "genericTypes": []
+                        },
+                        {
+                            "eClass": "org.kevoree.DictionaryAttribute",
+                            "fragmentDependant": "false",
+                            "optional": "false",
+                            "name": "tick",
+                            "state": "false",
+                            "datatype": "boolean",
+                            "defaultValue": "false",
+                            "genericTypes": []
+                        },
+                        {
+                            "eClass": "org.kevoree.DictionaryAttribute",
+                            "fragmentDependant": "false",
+                            "optional": "false",
+                            "name": "uptime",
+                            "state": "false",
+                            "datatype": "boolean",
+                            "defaultValue": "false",
+                            "genericTypes": []
+                        }
+                    ]
                 }
             ],
             "required": [],
