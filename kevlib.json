@@ -1,6 +1,6 @@
 {
     "eClass": "org.kevoree.ContainerRoot",
-    "generated_KMF_ID": "0.83545831241644921396957471875",
+    "generated_KMF_ID": "0.5006065946072341396957567577",
     "nodes": [],
     "typeDefinitions": [
         {
@@ -9,15 +9,15 @@
             "bean": "",
             "name": "VitalSigns",
             "factoryBean": "",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "deployUnit": [
-                "deployUnits[//kevoree-comp-vitalsigns/0.1.0]"
+                "deployUnits[//kevoree-comp-vitalsigns/0.1.1]"
             ],
             "superTypes": [],
             "dictionaryType": [
                 {
                     "eClass": "org.kevoree.DictionaryType",
-                    "generated_KMF_ID": "0.46130169858224691396957471900",
+                    "generated_KMF_ID": "0.81410822970792651396957567601",
                     "attributes": [
                         {
                             "eClass": "org.kevoree.DictionaryAttribute",
@@ -73,7 +73,7 @@
             "eClass": "org.kevoree.TypeLibrary",
             "name": "Javascript",
             "subTypes": [
-                "typeDefinitions[VitalSigns/0.1.0]"
+                "typeDefinitions[VitalSigns/0.1.1]"
             ]
         }
     ],
@@ -87,7 +87,7 @@
             "hashcode": "",
             "type": "npm",
             "url": "",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "requiredLibs": []
         }
     ],
