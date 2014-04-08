@@ -1,6 +1,6 @@
 {
   "name": "kevoree-comp-vitalsigns",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./kevoree-comp-vitalsigns.js",
   "scripts": {
     "prepublish": "node node_modules/kevoree-gen-model -q && grunt jade"
